@@ -1,16 +1,16 @@
 @font-face {
     font-family: "TT Lakes";
-    src: url("C:/Users/proko/Desktop/kata_academy/fonts/TTLakes-Regular.ttf") format("truetype");
+    src: url("../fonts/TTLakes-Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "TT Lakes Medium";
-    src: url("C:/Users/proko/Desktop/kata_academy/fonts/TTLakes-DemiBold.ttf") format("truetype");
+    src: url("../fonts/TTLakes-DemiBold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "TT Lakes Bold";
-    src: url("C:/Users/proko/Desktop/kata_academy/fonts/TTLakes-Bold.ttf") format("truetype");
+    src: url("../fonts/TTLakes-Bold.ttf") format("truetype");
 
 }
 
